@@ -72,7 +72,7 @@ export const perfumes: Perfume[] = [
     brand: "Dior",
     price: 105,
     description: "A fresh aromatic spray with ambroxan and spice for the modern man.",
-    category: "unisex",
+    category: "men",
     image: DiorSuavage,
   },
   {
@@ -171,7 +171,7 @@ export const perfumes: Perfume[] = [
     brand: "Versace",
     price: 92,
     description: "A warm spicy fragrance with notes of cinnamon and saffron.",
-    category: "unisex",
+    category: "men",
     image: Dylanblue,
   },
   {
@@ -207,7 +207,7 @@ export const perfumes: Perfume[] = [
     brand: "Dolce & Gabbana",
     price: 78,
     description: "A fresh fruity fragrance with Granny Smith apple notes.",
-    category: "unisex",
+    category: "men",
     image: DolceGabana,
   },
   {
